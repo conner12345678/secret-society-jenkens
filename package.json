@@ -1,0 +1,12 @@
+{
+  "name": "secret-society-jenkens",
+  "version": "1.0.0",
+  "main": "puzzle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Conner Ehly <cehly065@west-mec.org>",
+  "license": "MIT",
+  "description": ""
+}
