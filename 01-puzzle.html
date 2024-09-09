@@ -9,23 +9,29 @@
             background-color: grey;
             text-align: center;
         }
-        .theWelcome{
+        .puzzle1{
             margin: 100px;
         }
-        .theWelcome p{
+        .puzzle1 p{
             margin: 60px;
         }
-        .theWelcome .bottom{
+        .puzzle1 .bottom{
             margin: 0px;
         }
     </style>
 </head>
 <body>
-    <div class="theWelcome">
+    <div class="puzzle1">
         <h1>Welcome</h1>
         <p>You are here for a reason, no need to panic, everyone seeing this page has been chosen to take a little test, if you pass you get to learn why you are really here, if you fail you will NEVER talk about this again.</p>
         <p class="bottom">to continue onto the next page you need to do one thing... solve a simple riddle:</p>
+        <p class="riddle">I speak in requests and respond with code,<br> I deliver your sites from a distant abode. <br> I know html, and I serve it with pride, <br> but without me, your browser's lost in the tide. <br> what am I?</p>
     </div>
-    <p class="riddle">I speak in requests and respond with code,<br> I deliver your sites from a distant abode. <br> I know html, and I serve it with pride, <br> but without me, your browser's lost in the tide. <br> what am I?</p>
+    <button class="hint" onClick="clicked()">Click for hint</button>
+    <script>
+        function clicked() {
+            alert("Hint: It is litterally what this is running on");
+        } 
+    </script>
 </body>
 </html>

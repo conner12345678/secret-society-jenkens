@@ -3,7 +3,7 @@ puzzle 1 - I speak in requests and respond with code, I deliver your sites from 
 answer 1 - Server
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-puzzle 2(riddle) - I take you words and give them a spin, shifting letters to hide whats within. Read this carefully from 3 to 5 times, for the answer you seak is slightly behind.
+puzzle 2(riddle) - I take you words and give them a spin, shifting letters to hide whats within. Read this carefully between 3 to 5 times, for the answer you seak is slightly behind.
 
 puzzle 2(puzzle) - fimsaXliWyvjegi
 
