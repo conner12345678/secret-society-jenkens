@@ -45,8 +45,15 @@ http
                 }
                 res.end(data)
             })
+        }else if(req.url === '/program'){
+            fs.readFile('./07-win.html', (err, data)=>{
+                if(err){
+                    console.error(err)
+                }
+                res.end(data)
+            })
         }else{
-            res.end('you have failed')
+                res.end('you have failed')
         }
     })
     .listen(5000, (err)=>{
